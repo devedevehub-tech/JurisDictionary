@@ -5,8 +5,8 @@ Interactive mobile web prototype of the **JurisDictionary® Official Tactics Cou
 ## Features
 
 - **Interactive Mobile Shell**: Device simulator with live screen switcher, search filter, and dark/light mode toggle.
-- **26 Complete Screens**:
-  - **Getting Started & Onboarding**: Splash, Onboarding steps 1–3, Sign In, Two-Factor Verification.
+- **23 Complete Screens**:
+  - **Getting Started**: Splash, Sign In, Two-Factor Verification.
   - **Main Experience**: Home Screen (and Alt), Course Preview, Course Includes, Course Content, Tutoring, Main Menu, Profile Screen.
   - **Evidence Rules Series**: Parts 1, 2, 3, The Key to Winning, Winning Made Easy.
   - **Order & Checkout**: Order Screen, Order (Alt - Gift a Friend), Renew Screen ($89 Renewal Offer).
